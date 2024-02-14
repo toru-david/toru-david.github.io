@@ -1,0 +1,16 @@
+<svg width="19" height="24" viewBox="0 0 19 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-hub.svg">
+<path id="Vector" d="M8.5842 15.6756C9.08803 16.5403 10.343 16.5232 10.8232 15.6451L15.9167 6.32978C16.3889 5.4662 15.7552 4.41398 14.771 4.42737L4.33258 4.56939C3.34842 4.58279 2.74366 5.65185 3.23917 6.50228L8.5842 15.6756Z" fill="url(#paint0_linear_181_1520)"/>
+<path id="Vector_2" d="M8.47564 7.57307C8.95576 6.69499 10.2108 6.67791 10.7146 7.54261L16.0597 16.716C16.5552 17.5663 15.9504 18.6354 14.9662 18.6488L4.52776 18.7908C3.5436 18.8042 2.90998 17.752 3.38218 16.8884L8.47564 7.57307Z" fill="url(#paint1_linear_181_1520)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_181_1520" x1="9.73068" y1="17.6432" x2="9.4922" y2="0.116773" gradientUnits="userSpaceOnUse">
+<stop stop-color="#402FFF"/>
+<stop offset="1" stop-color="#53C1FF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_181_1520" x1="9.56818" y1="5.57499" x2="9.80664" y2="23.1014" gradientUnits="userSpaceOnUse">
+<stop stop-color="#402FFF"/>
+<stop offset="1" stop-color="#53C1FF"/>
+</linearGradient>
+</defs>
+</svg>

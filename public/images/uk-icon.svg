@@ -1,0 +1,46 @@
+<svg width="32" height="30" viewBox="0 0 32 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="uk.svg" clip-path="url(#clip0_181_1458)">
+<g id="Clip path group">
+<mask id="mask0_181_1458" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-14" y="0" width="60" height="30">
+<g id="a">
+<path id="Vector" d="M-14 0V30H46V0H-14Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_181_1458)">
+<g id="Group">
+<path id="Vector_2" d="M-14 0V30H46V0H-14Z" fill="#012169"/>
+<g id="Vector_3">
+<path d="M-14 0L46 30L-14 0ZM46 0L-14 30L46 0Z" fill="black"/>
+<path d="M-14 0L46 30M46 0L-14 30" stroke="white" stroke-width="6"/>
+</g>
+<g id="Clip path group_2">
+<mask id="mask1_181_1458" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-14" y="0" width="60" height="30">
+<g id="b">
+<path id="Vector_4" d="M16 15H46V30L16 15ZM16 15V30H-14L16 15ZM16 15H-14V0L16 15ZM16 15V0H46L16 15Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_181_1458)">
+<g id="Vector_5">
+<path d="M-14 0L46 30L-14 0ZM46 0L-14 30L46 0Z" fill="black"/>
+<path d="M-14 0L46 30M46 0L-14 30" stroke="#C8102E" stroke-width="4"/>
+</g>
+</g>
+</g>
+<g id="Vector_6">
+<path d="M16 0V30V0ZM-14 15H46H-14Z" fill="black"/>
+<path d="M16 0V30M-14 15H46" stroke="white" stroke-width="10"/>
+</g>
+<g id="Vector_7">
+<path d="M16 0V30V0ZM-14 15H46H-14Z" fill="black"/>
+<path d="M16 0V30M-14 15H46" stroke="#C8102E" stroke-width="6"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_181_1458">
+<rect width="60" height="30" fill="white" transform="translate(-14)"/>
+</clipPath>
+</defs>
+</svg>

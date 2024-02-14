@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import "/assets/fonts";
+
+body {
+	overflow: hidden;
+}
+
+.automotive-container {
+	scroll-snap-type: y mandatory;
+	scroll-behavior: smooth;
+	overflow: scroll;
+
+	.snap-section {
+		scroll-snap-align: start;
+	}
+
+	.banner {
+		background-image: url("/images/banner.png");
+
+		.content {
+			background: linear-gradient(
+				270deg,
+				rgba(0, 0, 0, 0.9) -26.77%,
+				rgba(0, 0, 0, 0) 100%
+			);
+		}
+	}
+}

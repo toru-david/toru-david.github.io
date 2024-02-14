@@ -1,0 +1,29 @@
+@font-face {
+	font-family: "Brown";
+	font-style: normal;
+	font-weight: 400;
+	src: local("BrownStdRegular"),
+		url(./fonts/BrownStdRegular.otf) format("opentype");
+}
+
+@font-face {
+	font-family: "Brown";
+	font-style: normal;
+	font-weight: 100;
+	src: local("BrownStdThin"), url(./fonts/BrownStdThin.otf) format("opentype");
+}
+
+@font-face {
+	font-family: "Brown";
+	font-style: normal;
+	font-weight: 300;
+	src: local("BrownStdLight"),
+		url(./fonts/BrownStdLight.otf) format("opentype");
+}
+
+@font-face {
+	font-family: "Brown";
+	font-style: normal;
+	font-weight: 700;
+	src: local("BrownStdBold"), url(./fonts/BrownStdBold.otf) format("opentype");
+}
